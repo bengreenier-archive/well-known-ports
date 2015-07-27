@@ -1,0 +1,24 @@
+{
+  "name": "well-known-ports",
+  "version": "0.1.0",
+  "description": "exports a map of port => service name for well known ports.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengreenier/well-known-ports.git"
+  },
+  "keywords": [
+    "ports",
+    "service",
+    "map"
+  ],
+  "author": "Ben Greenier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bengreenier/well-known-ports/issues"
+  },
+  "homepage": "https://github.com/bengreenier/well-known-ports#readme"
+}
